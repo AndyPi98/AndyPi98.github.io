@@ -7,3 +7,11 @@
   background-color: green;
   text-align: left-side;
 }
+
+img {
+        display:block; 
+        margin: 0 auto; 
+        text-align:right-side; 
+        width:200; 
+        height:200
+}
