@@ -1,8 +1,4 @@
-<!--
-<div style="float:left; display:block; width:150px; height:150px; background-color:#F00;"></div>
-<div style="float:left; display:block; width:150px; height:150px; background-color:#FF0;"></div>
-<div style="clear:both;"></div>
--->      
+
 h1,h2 {color: green; font-family: verdana;}
 table, th, td { border: 1px solid black}
 .importante {color:  red}
