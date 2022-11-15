@@ -3,3 +3,14 @@
         .importante {color:  red}
         .nonimportante {color:  green}
         #indice {color:  purple}
+
+<style>
+.myDiv {
+  border: 5px outset red;
+  background-color: green;
+  text-align: left-side;
+}
+
+
+
+</style>
